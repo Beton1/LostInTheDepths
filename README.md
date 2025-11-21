@@ -1,4 +1,4 @@
-[gameplay](images/gameplay.JPG)
+![gameplay](images/gameplay.JPG)
 # Lost In The Depths
 
 A classic, turn-based roguelike built in the spirit of traditional dungeon crawlers and based on the [Yet Another Roguelike Tutorial](https://www.rogueliketutorials.com/).
